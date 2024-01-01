@@ -20,4 +20,4 @@ function lovePercentage () {
     }
     // return "Your love score is " + m;
 }
-alert (lovePercentage());
+console.log (lovePercentage());
