@@ -21,7 +21,7 @@ function fibonacciGenerator (n) {
     return output;
 }
 
-// input any number of your chioce in the brackets
+// input any number of your choice in the brackets
 
 output = fibonacciGenerator(5);
 console.log(output);
