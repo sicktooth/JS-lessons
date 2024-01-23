@@ -9,3 +9,5 @@ function beer() {
          }
     }
 }
+var done = beer();
+console.log(done);
